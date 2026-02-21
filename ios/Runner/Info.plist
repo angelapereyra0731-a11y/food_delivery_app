@@ -7,6 +7,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+    <string>Quick Bite</string>
 	<string>Food Delivery App</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
@@ -15,6 +16,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+    <string>Quick Bite</string>
 	<string>food_delivery_app</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
